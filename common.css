@@ -170,3 +170,12 @@ input:focus, textarea:focus{ background-color: #F5F5F5;}
 .float4 li{	float:left;	width:24%;	}
 .float3 li{	float:left;	width:32%;	}
 .float2 li{	float:left;	width:49%;	}
+
+/*==================================================================
+	Components style
+	http://icalialabs.github.io/furatto/components.html
+	http://getbootstrap.com/components/
+===================================================================*/
+.badge {
+    display: inline-block; padding: 2px 4px; font-size: 13.536px; font-weight: bold; line-height: 14px; color: #FFF; vertical-align: baseline; white-space: nowrap; text-shadow: 0 -1px 0 rgba(0,0,0,0.2); background: #95a5a6;
+}
