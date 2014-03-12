@@ -23,13 +23,13 @@ http://code.google.com/p/common-css/source/browse/common.css
 ###外部CSSとして使う場合
 必ずバージョンを指定して使って下さい。ご利用は計画的に。
 
-####■HTML5の場合（例：1.1.0を利用する場合）
+####■HTML5の場合（例：1.2.0を利用する場合）
     
-    <link rel="stylesheet" href="//common-css.googlecode.com/git-history/1.1.0/common.css">
+    <link rel="stylesheet" href="//common-css.googlecode.com/git-history/1.2.0/common.css">
     
-####■XHTMLの場合（例：1.1.0を利用する場合）
+####■XHTMLの場合（例：1.2.0を利用する場合）
 
-    <link rel="stylesheet" media="screen" type="text/css" href="//common-css.googlecode.com/git-history/1.1.0/common.css" />
+    <link rel="stylesheet" media="screen" type="text/css" href="//common-css.googlecode.com/git-history/1.2.0/common.css" />
 
 ライセンス
 ------------
