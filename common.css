@@ -56,7 +56,7 @@ input:focus, textarea:focus{ background-color: #F5F5F5;}
 /* shortcut(important) */
 .inline { display:inline !important; }
 .block { display:block !important; }
-.clear{	clear:both;	!important; }
+.clear{	clear:both !important; }
 .none { display:none !important; }
 .fnone { float:none !important; }
 .tnone { text-decoration: none !important; }
