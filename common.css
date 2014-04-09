@@ -65,7 +65,7 @@ input:focus, textarea:focus{ background-color: #F5F5F5;}
 .clearfix { zoom:1; }
 .clearfix:after{ content: ""; display: block; clear: both;}
 
-.lefttop { position:absolute; left:0; bottom:0; }
+.lefttop { position:absolute; left:0; top:0; }
 .leftbottom { position:absolute; left:0; bottom:0; }
 .righttop { position:absolute; right:0; top:0; }
 .rightbottom { position:absolute; right:0; bottom:0; }
