@@ -9,7 +9,7 @@ bootstrapもいいけど汎用性が…。みたいなこと多いと思いま�
 Normalize.cssもいいけど使いにくい…。みたいなこと多いと思います。
 
 common.cssは、どんな案件でも必ず役に立つCSSクラス群です。  
-PCはもちろんスマホ対応も誠意製作中。IE6でも大体使えます。  
+PCはもちろんスマホ対応も誠意製作中。IE6でも大体は使えるはず…。  
 
 ###■Google Code  
 http://code.google.com/p/common-css/source/browse/common.css
@@ -23,13 +23,13 @@ http://code.google.com/p/common-css/source/browse/common.css
 ###外部CSSとして使う場合
 必ずバージョンを指定して使って下さい。ご利用は計画的に。
 
-####■HTML5の場合（例：1.2.0を利用する場合）
+####■HTML5の場合（例：1.3.0を利用する場合）
     
-    <link rel="stylesheet" href="//common-css.googlecode.com/git-history/1.2.0/common.css">
+    <link rel="stylesheet" href="//common-css.googlecode.com/git-history/1.3.0/common.css">
     
-####■XHTMLの場合（例：1.2.0を利用する場合）
+####■XHTMLの場合（例：1.3.0を利用する場合）
 
-    <link rel="stylesheet" media="screen" type="text/css" href="//common-css.googlecode.com/git-history/1.2.0/common.css" />
+    <link rel="stylesheet" media="screen" type="text/css" href="//common-css.googlecode.com/git-history/1.3.0/common.css" />
 
 ライセンス
 ------------
