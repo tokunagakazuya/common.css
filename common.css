@@ -47,9 +47,9 @@ http://purecss.io/grids/
 .blink       { text-decoration:blink;     }
 .underline   { text-decoration:underline; }
 
-.relative    {	position:relative; }
-.absolute    {	position:absolute; }
-.fixed       {	position:fixed;    }
+.relative    { position:relative; }
+.absolute    { position:absolute; }
+.fixed       { position:fixed;    }
 
 .disc        { padding-left:2em;   list-style:disc;    }
 .circle      { padding-left:2em;   list-style:circle;  }
