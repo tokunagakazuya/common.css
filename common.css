@@ -105,12 +105,12 @@ http://purecss.io/grids/
 .w90 { width:90% !important; } .w100 { width:100% !important; }
 
 /* default number */
-.fxxs { font-size:10px !important; } .fxs  { font-size:12px !important; }
-.fs   { font-size:14px !important; } .fm   { font-size:16px !important; } .fl { font-size:28px !important; }
-.fxl  { font-size:40px !important; } .fxxl { font-size:52px !important; }
+.fxxs { font-size:10px  !important; } .fxs  { font-size:12px  !important; }
+.fs   { font-size:14px  !important; } .fm   { font-size:16px  !important; } .fl { font-size:28px  !important; }
+.fxl  { font-size:40px  !important; } .fxxl { font-size:52px  !important; }
 
-.l0 { line-height:  0 !important; }
-.ls { line-height:1.2 !important; } .lm { line-height:1.4 !important; } .ll { line-height:1.8 !important; }
+.l0   { line-height:  0 !important; }
+.ls   { line-height:1.2 !important; } .lm   { line-height:1.4 !important; } .ll { line-height:1.8 !important; }
 
 .rt0, .rv0, .ra0       { border-top-left-radius:      0 !important; border-top-right-radius:          0 !important; }
 .rr0, .rh0, .ra0       { border-top-right-radius:     0 !important; border-bottom-right-radius:       0 !important; }
