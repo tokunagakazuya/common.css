@@ -174,7 +174,7 @@ button,html input[type="button"],input[type="reset"],input[type="submit"]{backgr
 .mbxxs, .mvxxs, .maxxs { margin-bottom:   3px !important; } .mlxxs, .mhxxs, .maxxs { margin-left:     3px !important; }
 .mtxs, .mvxs, .maxs    { margin-top:      5px !important; } .mrxs, .mhxs, .maxs    { margin-right:    5px !important; }
 .mbxs, .mvxs, .maxs    { margin-bottom:   5px !important; } .mlxs, .mhxs, .maxs    { margin-left:     5px !important; }
-.mts, .mvs, .mas 	   { margin-top:      8px !important; } .mrs, .mhs, .mas 	   { margin-right:    8px !important; }
+.mts, .mvs, .mas       { margin-top:      8px !important; } .mrs, .mhs, .mas 	   { margin-right:    8px !important; }
 .mbs, .mvs, .mas       { margin-bottom:   8px !important; } .mls, .mhs, .mas       { margin-left:     8px !important; }
 .mtm, .mvm, .mam       { margin-top:     13px !important; } .mrm, .mhm, .mam       { margin-right:   13px !important; }
 .mbm, .mvm, .mam       { margin-bottom:  13px !important; } .mlm, .mhm, .mam       { margin-left:    13px !important; }
